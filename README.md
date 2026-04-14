@@ -1,2 +1,0 @@
-# Mobin
-For Personal Learning
